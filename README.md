@@ -1,2 +1,2 @@
 # Guessing game in Python
-**Guess enemy word**
+**Guess enemy's word**
