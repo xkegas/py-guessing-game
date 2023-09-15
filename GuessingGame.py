@@ -32,7 +32,6 @@ class GuessingGame:
         os.system('cls')
         print(self.p1 + "'s turn: ")
         input(self.p2 + " that's not for you! (Enter to continue)")
-        print("slowo p1: " + self.p1_word)
         if(self.p1_word == ""):
             self.p1_word = input("Type a word which enemy has to guess: ")
             self.P2Turn()
